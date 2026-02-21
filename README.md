@@ -23,3 +23,5 @@ The website is fully responsive and optimized for different screen sizes using C
 Performance considerations include optimized animations, minimal DOM manipulation, efficient CSS transitions, and lightweight structure to ensure fast loading times. The project demonstrates strong frontend fundamentals, UI/UX design principles, and the ability to build visually rich interfaces without heavy dependencies.
 
 Overall, this portfolio website reflects both technical proficiency and design sensibility. It serves as a personal branding platform that effectively communicates expertise, showcases real-world projects, and provides an interactive way for potential employers or clients to connect.
+
+OUTPUT : ![img](https://github.com/user-attachments/assets/940089ea-00c3-4874-af46-a63c5d390c73")
