@@ -1,11 +1,11 @@
 # STATIC-WEBSITE-FOR-PORTFOLIO
 
-COMPANY: CODTECH IT SOLUTIONS
-NAME: KARAN PAREKH
-INTERN ID: CTIS1913
-DOMAIN: SOFTWARE DEVELOPMENT
-DURATION: 6 WEEEKS
-MENTOR: MUZAMMIL AHMED
+### COMPANY: CODTECH IT SOLUTIONS
+### NAME: KARAN PAREKH
+### INTERN ID: CTIS1913
+### DOMAIN: SOFTWARE DEVELOPMENT
+### DURATION: 6 WEEEKS
+### MENTOR: MUZAMMIL AHMED
 
 DESCRIPTION: 
 This project is a fully responsive and highly animated personal portfolio website designed to showcase the skills, projects, and professional experience of a Full Stack Developer. The website is built using pure HTML, CSS, and JavaScript, focusing on performance, clean UI design, and modern interactive user experience without relying on external frameworks.
