@@ -24,4 +24,4 @@ Performance considerations include optimized animations, minimal DOM manipulatio
 
 Overall, this portfolio website reflects both technical proficiency and design sensibility. It serves as a personal branding platform that effectively communicates expertise, showcases real-world projects, and provides an interactive way for potential employers or clients to connect.
 
-OUTPUT : ![img](https://github.com/user-attachments/assets/940089ea-00c3-4874-af46-a63c5d390c73")
+OUTPUT : ![img](https://github.com/user-attachments/assets/940089ea-00c3-4874-af46-a63c5d390c73)
